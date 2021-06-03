@@ -1,1 +1,1 @@
-# SumashTech
+# PersonalSumashTech
